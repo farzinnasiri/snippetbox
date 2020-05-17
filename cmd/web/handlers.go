@@ -12,6 +12,7 @@ func (app *application) home(w http.ResponseWriter, r *http.Request) {
 		http.NotFound(w, r)
 		return
 	}
+
 	s, err := app.snippets.Latest()
 	if err != nil {
 		app.serverError(w, err)
@@ -28,6 +29,7 @@ func (app *application) showSnippet(w http.ResponseWriter, r *http.Request) {
 		app.notFound(w)
 		return
 	}
+
 	s, err := app.snippets.Get(id)
 
 	if err == models.ErrNoRecord {
