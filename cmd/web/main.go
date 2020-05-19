@@ -18,6 +18,8 @@ type application struct {
 	templateCache map[string]*template.Template
 }
 
+
+
 func main() {
 
 	addr := flag.String("addr", ":4000", "HTTP network address")
