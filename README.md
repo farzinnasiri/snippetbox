@@ -4,7 +4,7 @@ This application uses `Golang` and it's powerful standard library to server a co
 
 ### Requirements
 - Golang version 1.11 or higher
-- Mysql (driver)[github.com/go-sql-driver/mysql]
+- [Mysql driver](github.com/go-sql-driver/mysql)
 
 ### Libraries
 - github.com/golangcollege/sessions v1.2.0
