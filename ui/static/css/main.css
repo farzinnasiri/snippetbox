@@ -58,7 +58,8 @@ a {
 
 a:hover {
     color: #00749C;
-    text-decoration: underline;
+    text-decoration: none;
+
 }
 
 textarea, input:not([type="submit"]) {
