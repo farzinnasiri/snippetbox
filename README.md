@@ -27,7 +27,7 @@ You can pull the code and create a binary file to run the application anywhere:
   
 ```
 ### To Do
--[] Creating an API endpoint which returns a JSON representation of a snippet
--[] Adding functionality to confirm a user’s email address on signup
--[] Adding functionality for a user to reset their password
--[] Creating a command line application under cmd/cli to carry out database admin tasks
+- [ ] Creating an API endpoint which returns a JSON representation of a snippet
+- [ ] Adding functionality to confirm a user’s email address on signup
+- [ ] Adding functionality for a user to reset their password
+- [ ] Creating a command line application under cmd/cli to carry out database admin tasks
