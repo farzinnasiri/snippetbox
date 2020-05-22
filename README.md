@@ -31,3 +31,5 @@ You can pull the code and create a binary file to run the application anywhere:
 - [ ] Adding functionality to confirm a user’s email address on signup
 - [ ] Adding functionality for a user to reset their password
 - [ ] Creating a command line application under cmd/cli to carry out database admin tasks
+- [ ] Snippets expiring after specified time
+- [ ] Saving logs on a file 
