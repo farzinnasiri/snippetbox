@@ -2,6 +2,8 @@
 This is a web application to save snippets, based on the book `let's go` by [alex edwards](https://www.alexedwards.net/).
 This application uses `Golang` and it's powerful standard library to server a complete web applicaiton.
 
+Please checkout the **[Live Demo](http://snippetbox.farzinnasiri.com/)** of the application.
+
 ### Requirements
 - Golang version 1.11 or higher
 - [Mysql driver](github.com/go-sql-driver/mysql)
